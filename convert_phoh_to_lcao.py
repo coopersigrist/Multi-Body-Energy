@@ -60,5 +60,5 @@ def convert_format(x_filename, y_filename, out_filename):
 
 
 if(__name__ == '__main__'):
-    convert_format('abs_pos_phoh.npy', 'y_phoh.npy', 'converted.txt')
+    convert_format('data/phoh/abs_pos_phoh.npy', 'data/phoh/y_phoh.npy', 'converted.txt')
 
