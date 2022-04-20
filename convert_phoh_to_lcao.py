@@ -1,7 +1,7 @@
 import numpy as np
 from tqdm import tqdm
 
-PHOH_STRUCTURE = 'HCCHCHCHOCHCH'
+PHOH_STRUCTURE = 'HCCHCHCOHCHCH'
 NAME_PREFIX = 'phoh_'
 N_PHOH = 3
 N_ATOMS = 13
